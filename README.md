@@ -19,9 +19,7 @@ A simple and responsive calculator app built with **Flutter**. This app supports
 
 ## Screenshots
 
-| Calculator Display | Button Panel |
-|-------------------|--------------|
-| ![Calculator Display](screenshots/display.png) | ![Button Panel](screenshots/buttons.png) |
+![Calculator Display](img/img_4.png)
 
 *Note: Add your own screenshots in the `screenshots` folder.*
 
@@ -39,7 +37,7 @@ A simple and responsive calculator app built with **Flutter**. This app supports
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/flutter_calculator.git
+git clone https://github.com/ZEVOROS/flutter_calculator_TranVanCuong.git
 cd flutter_calculator
 Get dependencies:
 
